@@ -124,6 +124,20 @@ Let's go line by line
 <br />
 <br />
 
+# What is Little-Endian
+
+<br />
+<br />
+
+
+
+https://user-images.githubusercontent.com/112841868/219923499-e82ed0ba-5e2a-4502-800e-8b2b92c2df27.mp4
+
+
+
+<br />
+<br />
+
 # Congradulations, you now understand the basics of how data is handled in assembly ! 🥳
 
 
