@@ -1,4 +1,4 @@
-# What is memory segmentation ? 🚧 Work in progress I'm still learning about memory segmentation some information might be slightly incorect 🚧
+# What is memory segmentation ?
 
 <br />
 <br />
